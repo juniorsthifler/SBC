@@ -3,7 +3,6 @@
 ## "Proyecto Covid-19"  
 
 * Integrantes: Cristian Macas - Marlon Pizarro - Junior Vásquez
-* Contiene: *
-"Documentación - Wiki"
-*
-"Archivo .xlsm de como extraer datos (formulas aplicadas)"
+* Contiene: 
+* "Documentación - Wiki"
+* "Archivo .xlsm de como extraer datos (formulas aplicadas)"
