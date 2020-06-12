@@ -5,4 +5,5 @@
 * Integrantes: Cristian Macas - Marlon Pizarro - Junior Vásquez
 * Contiene: 
 * "Documentación revisar en - Wiki"
-* "Archivo .xlsm de como extraer datos (formulas aplicadas)"
+* "Archivo .xlsx de como extraer datos (formulas aplicadas)"
+* Imagen de GraphDB - nodos 
