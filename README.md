@@ -4,5 +4,5 @@
 
 * Integrantes: Cristian Macas - Marlon Pizarro - Junior Vásquez
 * Contiene: 
-* "Documentación - Wiki"
+* "Documentación revisar en - Wiki"
 * "Archivo .xlsm de como extraer datos (formulas aplicadas)"
